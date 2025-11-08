@@ -48,3 +48,8 @@ C1,C2            100pF 0805 smd
 
 C3,C4,C5         100 nF 0805 smd
 
+
+# PIC16F628A
+
+Program with powplus.hex, the c code is provided in powplus.c
+
