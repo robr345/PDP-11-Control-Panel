@@ -1,5 +1,5 @@
 # PDP-11-Control-Panel
-Replacement for the front panel found on DEC PDP-11 computers.
+Replacement front panel found on DEC PDP-11 computers.
 
 ![ControlPanel](https://github.com/user-attachments/assets/9112db66-7bfd-4a50-b062-37b2f3442094)
 
