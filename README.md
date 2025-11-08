@@ -26,7 +26,7 @@ The control panel requires 5v DC to operate, plug the 10 pin connectector into y
 
 3 x 5mm LED's
 
-3 x button6*6*8.5
+3 x button6x6x8.5
 
 J1  2 pole terminal block
 
