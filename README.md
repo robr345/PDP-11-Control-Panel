@@ -24,28 +24,44 @@ The control panel requires 5v DC to operate, plug the 10 pin connectector into y
 
 # Bill of Materials
 
-3 5mm LED's
-3 button6*6*8.5
+3 x 5mm LED's
+
+3 x button6*6*8.5
 
 J1  2 pole terminal block
 
 U1  PIC16F628A     18 pin dip
+
 U2  10 pin connector 2.54 mm
+
 U3  Crystal 32.7680khz 6pf smd
 
 R1
-R1
+
+R2
+
 R3
+
 R4
+
 R5
+
 R6
+
 R7
+
 R8
 
 C1
+
 C2
+
 C3
+
 C4
+
 C5
+
+
 
 
