@@ -15,9 +15,9 @@ This project will enable a QBUS PDP-11 backplane (such as a H9270, H9273, H9278 
 A PIC Microprocessor is used to control CPU startup, halt and reset.
 
 
-# The control panel has 3 buttons
+# Control panel buttons
 
-Reset - Press to reset the computer the running led will briefly go out while the reset process is underway.
+Reset - Press to reset the computer, the running led will briefly go out while the reset process is underway.
 
 Halt -  Press to halt the CPU, press again to run the CPU. Pressing the Halt button will drop the console in to the monitor.
 
