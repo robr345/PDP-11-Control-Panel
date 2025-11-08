@@ -12,7 +12,7 @@ In original DEC equipment, these signals would typically be provided by circuitr
 
 This project will enable a QBUS PDP-11 backplane (such as a H9270, H9273, H9278 or H9281) when populated with an appropriate collection of PDP-11 boards, to function as a minimal PDP-11 system.
 
-A PIC Microprocessor is used to control CPU startup, halt and reset the C program is inclued.
+A PIC Microprocessor is used to control CPU startup, halt and reset. The C program is inclued.
 
 
 # The control panel has 3 buttons
