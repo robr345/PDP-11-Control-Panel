@@ -36,32 +36,15 @@ U2  10 pin connector 2.54 mm
 
 U3  Crystal 32.7680khz 6pf smd
 
-R1
 
-R2
+R1               10K 0805 smd
 
-R3
+R2,R3,R4,R7      220 ohm 0805 smd
 
-R4
-
-R5
-
-R6
-
-R7
-
-R8
-
-C1
-
-C2
-
-C3
-
-C4
-
-C5
+R5,R6,R8         1K 0805 smd
 
 
+C1,C2            100pF 0805 smd
 
+C3,C4,C5         100 nF 0805 smd
 
