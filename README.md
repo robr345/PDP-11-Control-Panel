@@ -12,7 +12,7 @@ In original DEC equipment, these signals would typically be provided by circuitr
 
 This project will enable a QBUS PDP-11 backplane (such as a H9270, H9273 or H9281) when populated with an appropriate collection of PDP-11 boards, to function as a minimal PDP-11 system.
 
-# The control panel has 3 buttons:-
+# The control panel has 3 buttons
 
 Reset - Press to reset the computer the running led will briefly go out while the reset process is underway.
 
@@ -21,3 +21,31 @@ Halt -  Press to halt the CPU, press again to run the CPU. Pressing the Halt but
 Aux  -  Programmed to Start/Stop the LTC clock.
 
 The control panel requires 5v DC to operate, plug the 10 pin connectector into your backplain or used the seperate connectors to directly wire the control panel the the backplain.
+
+# Bill of Materials
+
+3 5mm LED's
+3 button6*6*8.5
+
+J1  2 pole terminal block
+
+U1  PIC16F628A     18 pin dip
+U2  10 pin connector 2.54 mm
+U3  Crystal 32.7680khz 6pf smd
+
+R1
+R1
+R3
+R4
+R5
+R6
+R7
+R8
+
+C1
+C2
+C3
+C4
+C5
+
+
