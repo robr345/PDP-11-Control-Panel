@@ -10,7 +10,7 @@ It is not sufficient to just add a DC power supply to the PDP-11 backplane, as t
 
 In original DEC equipment, these signals would typically be provided by circuitry in the DEC power supply in combination with a 3-switch and 2-LED front panel. If you do not have the original DEC power supply and front panel, these control signals need to be synthesised.
 
-This project will enable a QBUS PDP-11 backplane (such as a H9270, H9273 or H9281) when populated with an appropriate collection of PDP-11 boards, to function as a minimal PDP-11 system.
+This project will enable a QBUS PDP-11 backplane (such as a H9270, H9273, H9278 or H9281) when populated with an appropriate collection of PDP-11 boards, to function as a minimal PDP-11 system.
 
 # The control panel has 3 buttons
 
