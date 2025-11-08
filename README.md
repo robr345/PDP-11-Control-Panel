@@ -16,7 +16,7 @@ This project will enable a QBUS PDP-11 backplane (such as a H9270, H9273 or H928
 
 Reset - Press to reset the computer the running led will briefly go out while the reset process is underway.
 
-Halt -  Press to halt the CPU, press again to run the CPU. Pressing the Halt button will dropy the console to the monitor.
+Halt -  Press to halt the CPU, press again to run the CPU. Pressing the Halt button will drop the console in to the monitor.
 
 Aux  -  Programmed to Start/Stop the LTC clock.
 
