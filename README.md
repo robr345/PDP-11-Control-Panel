@@ -27,7 +27,7 @@ The control panel requires 5v DC to operate, plug the 10 pin connectector into y
 
 # Bill of Materials
 
-3 x 5mm LED's
+4 x 5mm LED's
 
 3 x button6x6x8.5
 
